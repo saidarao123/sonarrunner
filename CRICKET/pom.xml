@@ -29,24 +29,7 @@
 </dependency>
   </dependencies>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <build>
+    <build>
    <finalName>Unitconversion</finalName>
    <plugins>
       <plugin>
@@ -103,11 +86,7 @@
       </plugin>
    </plugins>
 </reporting>
-  
-  
-  
-    
-  <profiles>
+   <profiles>
 <profile>
 <id>sonar</id>
 <activation>
